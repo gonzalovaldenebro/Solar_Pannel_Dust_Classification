@@ -1,1 +1,1 @@
-# solar_panel_dataset
+# Solar Pannel Dust Classification Project
