@@ -18,6 +18,5 @@ Data: This folder contains the data used for training and testing the neural net
 
 Solar_pannel_dust_classification.ipynb: This file contains the code for loading, preprocessing, and training the neural network model for predicting whether a solar panel is dusty or clean.
 
-##Conclusion
-
+## Conclusion
 This project demonstrates the potential of AI and machine learning in the energy industry. The trained model can be used to detect dusty solar panels, which can then be cleaned, improving the performance and efficiency of solar plants.
