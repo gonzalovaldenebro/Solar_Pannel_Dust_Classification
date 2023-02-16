@@ -11,7 +11,7 @@ Solar panels are located in zones with high levels of sunshine throughout the ye
 ## Data Preparation
 I found the data for this project on Kaggle, and I used the data to train my neural network. The data consisted of images of dusty and clean solar panels. The data set had been split into 80% training data containing 2037 images and 20% testing data containing 525 images. I have made the data available as an open source and available for use in this repository.
 
-Repository Contents
+## Repository Contents
 This repository contains the following:
 
 Data: This folder contains the data used for training and testing the neural network.
