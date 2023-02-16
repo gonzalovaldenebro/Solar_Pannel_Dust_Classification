@@ -14,7 +14,7 @@ I found the data for this project on Kaggle, the data consisted of images of dus
 ## Repository Contents
 This repository contains the following:
 
-Data: This folder contains the data used for training and testing the neural network.
+[Link to data](https://drive.google.com/drive/folders/11ehMdSXm5b9f-V-l4ZSLWircqaBcXav_?usp=sharing)
 
 Solar_pannel_dust_classification.ipynb: This file contains the code for loading, preprocessing, and training the neural network model for predicting whether a solar panel is dusty or clean.
 
