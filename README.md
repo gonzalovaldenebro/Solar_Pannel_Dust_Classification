@@ -9,7 +9,7 @@ MIT engineers have developed a [system](https://news.mit.edu/2022/solar-panels-d
 Solar panels are located in zones with high levels of sunshine throughout the year, and as a result, they are prone to dust accumulation, which reduces the efficiency of the panel. When sunlight enters a solar panel, energy from the sunlight is absorbed by the photovoltaic cells in the panel, creating electrical charges that move in response to an internal electrical field in the cell, causing electricity to flow.
 
 ## Data Preparation
-I found the data for this project on Kaggle, and I used the data to train my neural network. The data consisted of images of dusty and clean solar panels. The data set had been split into 80% training data containing 2037 images and 20% testing data containing 525 images. I have made the data available as an open source and available for use in this repository.
+I found the data for this project on Kaggle, the data consisted of images of dusty and clean solar panels. Originally, the data came in separated in Clean and Dusty, I personally splited the data into 80% training data containing 2037 images and 20% testing data containing 525 images. I have made the data available as an open source and available for use in this repository.
 
 ## Repository Contents
 This repository contains the following:
