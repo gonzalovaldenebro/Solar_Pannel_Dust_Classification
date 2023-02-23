@@ -1,4 +1,4 @@
-# Solar Pannel Dust Classification Project
+# Solar Panel Dust Classification Project
 
 ## Introduction
 As an AI enthusiast, I am very interested in exploring the energy industry and how AI can help in the discovery of new tools to solve problems. In this project, I have focused on solving the problem of dusty solar panels that often affect the performance of solar plants.
